@@ -50,4 +50,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayalohana&show_icons=true&locale=en" alt="jayalohana" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayalohana&" alt="jayalohana" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aradhyas8&" alt="jayalohana" /></p>
